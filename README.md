@@ -46,7 +46,7 @@ python app.py
 
 The project has the following folder structure:
 
-![Uploading image.png…]()
+![image](https://github.com/Vimiya/E-commerceProductReviewScrapper/assets/95517635/4578c06c-d60c-4153-8be0-9aef617e9815)
 
 
 - `app.py`: The main Flask application file.
