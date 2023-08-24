@@ -47,17 +47,29 @@ python app.py
 The project has the following folder structure:
 
 review-scraper/
+
 ├── app.py
+
 ├── templates/
+
 │ ├── base.html
+
 │ └── index.html
+
 │ └── results.html
+
 ├── static/
-│ ├── css/
-    |--main.css
+
+│ ├── css/ 
+
+    ├── main.css
+    
 │ │ └── style.css
+
 ├── requirements.txt
+
 ├── runtime.txt
+
 └── README.md
 
 
