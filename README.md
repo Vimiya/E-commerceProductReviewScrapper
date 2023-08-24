@@ -63,12 +63,11 @@ review-scraper/
 
 - `app.py`: The main Flask application file.
 - `templates/`: Directory containing HTML templates.
-- `templates/base.html`: Results page template displaying the reviews and sentiment analysis.
 - `templates/index.html`: Home page template with the search form.
-- `templates/results.html`: Results page template displaying the reviews and sentiment analysis.
-- `static/`: Directory containing static assets like CSS and JavaScript files.
+- `templates/results.html`: Results page template displaying the reviews.
+- `static/`: Directory containing static assets like CSS files.
 - `static/css/style.css`: CSS file for styling the HTML templates.
-- `static/css/main.css
-- `requirements.txt`:
-- `runtime.txt`: 
-- `README.md`: This README file.
+- `static/css/main.css`: CSS file with size and font details for body, content of html page
+- `requirements.txt`: installation requirements for this project.
+- `runtime.txt`: Python version details for this project
+- `README.md`: This file has details about what and how project is about.
